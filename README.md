@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmiyy&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmiyy" /> </p>
 
-- 🔭 I’m currently working on **MindCare AI – AI Companion for Elderly Mental Health**
-
-- 🌱 I’m currently learning **Machine Learning & NVIDIA CUDA Tools**
-
-- 📬 Reach me at **chirag.agr0611@gmail.com**
+- 🔭 Currently building: **MindCare AI** – an AI-powered companion for elderly mental well-being  
+- 🌱 Actively learning: **Machine Learning, Deep Learning**, and **NVIDIA CUDA Ecosystem**  
+- 📬 Reach me anytime at: **chirag.agr0611@gmail.com**
 
 ---
 
