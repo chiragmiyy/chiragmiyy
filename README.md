@@ -31,22 +31,23 @@
 
 ---
 
-## 🛠️ Tech Stack
 ### ⚙️ Tech Stack
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,html,css,js" height="50" alt="languages" />
-  
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,html,css,js" height="50" alt="Languages" />
+
   <!-- ML/Data Libraries -->
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" height="50" alt="numpy pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="50" alt="Matplotlib" />
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" height="50" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" height="50" alt="Tools" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Leaflet_logo.png" height="50" alt="Leaflet.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Openrouteservice-logo.svg" height="40" alt="OpenRouteService" />
+  <img src="https://user-images.githubusercontent.com/91310901/277093401-eab9f1f3-9c68-4b2f-844a-161ef781f704.png" height="50" alt="OpenRouteService"/>
 </p>
+
 
 
 ---
