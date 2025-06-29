@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A passionate from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1XrtlNhmLzFbn1oH6Uy9lv&ust=1751289396522000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC5rs_blo4DFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragmiyy&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmiyy" /> </p>
 
