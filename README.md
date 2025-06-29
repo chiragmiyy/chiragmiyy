@@ -18,7 +18,7 @@
 - 🎓 **ML & Deep Learning** – Andrew Ng (Coursera)  
 - 💻 **Python, NumPy, Pandas, Scikit-Learn, Matplotlib**  
 - 🧠 **Generative AI** – NVIDIA tools, Udacity, Prompt Engineering  
-- 🔁 **Daily DSA Practice** – LeetCode, HackerRank, GFG
+- 🔁 **Daily DSA Practice** – LeetCode, Codeforces, GFG
 
 ---
 
@@ -27,7 +27,7 @@
 - 🥈 Finalist – Smart India Hackathon 2024 (Hardware Edition)  
 - 🏆 Winner – EUREKA’24 (E-Cell TOPAZ)  
 - 🌟 5⭐ in C++ – HackerRank  
-- 🧠 DSA Mastery – Udemy (C/C++)
+- 🧠 LeetCode – 1561 mx
 
 ---
 
@@ -36,14 +36,6 @@
 **ML Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib  
 **Tools**: Git, VS Code, Firebase, Firebase Realtime DB  
 **Other**: Firebase Auth, Google Maps API, OpenRouteService, Leaflet.js
-
----
-
-## 📃 Certifications
-- 📜 [Python for Everybody (Coursera)](https://www.coursera.org/account/accomplishments/verify/R2HS9XPSJXAS)  
-- 📜 [Python Data Structures (Coursera)](https://www.coursera.org/account/accomplishments/verify/O28FLNIBYNFV)  
-- 📜 [DSA using C/C++ (Udemy)](https://www.udemy.com/certificate/UC-50acb309-1172-45d5-94f0-d41df3953b82/)  
-- 📜 [SQL (HackerRank)](https://www.hackerrank.com/certificates/6a3569665567)
 
 ---
 
