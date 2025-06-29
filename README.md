@@ -48,7 +48,7 @@
 ---
 
 ## 📬 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chirag-agrawal-a7a185292/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chiragmiyy/)  
 - 💻 [GitHub](https://github.com/chiragmiyy)  
 - 📍 [LeetCode](https://leetcode.com/chiragmiyy)  
 - 📧 chirag.agr0611@gmail.com  
